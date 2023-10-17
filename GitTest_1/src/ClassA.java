@@ -6,4 +6,6 @@ public class ClassA {
         this.x = x;
         this.y = y;
     }
+
+    System.out.println("Modyfikacja ClassA");
 }
